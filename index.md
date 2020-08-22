@@ -1,3 +1,3 @@
-# Welcome to my blog
+# A title
 
-I'm glad you are here. I plan to talk about ...
+I'd really prefer to write my own html
